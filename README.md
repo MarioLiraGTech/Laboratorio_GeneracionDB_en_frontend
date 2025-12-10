@@ -41,9 +41,9 @@ cd nombre-del-repo
 ```
 ### 2. Instalar dependencias
 ```Bash
-    npm install
-    # o si usas pnpm
-    pnpm install
+npm install
+# o si usas pnpm
+pnpm install
 ```
 ### 3. Configurar Convex
 Necesitas una cuenta en Convex.dev. Luego, inicia el proyecto y conéctalo:
